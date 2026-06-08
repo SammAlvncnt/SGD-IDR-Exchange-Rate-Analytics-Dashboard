@@ -1,5 +1,3 @@
-![SGD IDR Dashboard Banner](image/thumbnail.png)
-
 #  SGD/IDR Exchange Rate Analytics Dashboard
 
 An end-to-end data engineering and business intelligence project that programmatically extracts and processes historical Singapore Dollar (SGD) to Indonesian Rupiah (IDR) exchange rates using Python, streams the pipeline into Google Sheets, and visualizes interactive financial insights in Power BI.
